@@ -46,12 +46,6 @@ const customers = [
     email: "balazs@orban.com",
     image_url: "/customers/balazs-orban.png",
   },
-  {
-    id: "13D07535-C19E-4157-A011-F8D2EF4E0CBB",
-    name: "Vassil Kurktchiev",
-    email: "xero@live.com",
-    image_url: "/customers/vassil-kurktchiev.jpg",
-  },
 ];
 
 const invoices = [
